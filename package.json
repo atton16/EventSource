@@ -20,6 +20,9 @@
     "webpack"
   ],
   "author": "Steven Guiheux (https://github.com/sguiheux)",
+  "contributors": [
+    "Attawit Kittikrairit <atton16@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sguiheux/EventSource/issues"
